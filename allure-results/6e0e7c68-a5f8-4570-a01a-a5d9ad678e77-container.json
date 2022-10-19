@@ -1,0 +1,1 @@
+{"uuid":"6e0e7c68-a5f8-4570-a01a-a5d9ad678e77","name":"TestWithDP.beforeMethod","children":["bf3d3adc-0fd9-4e6d-9993-e5ee7eaec56f"],"description":"","befores":[{"name":"beforeMethod","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1666108901278,"stop":1666108902258}],"afters":[],"start":1666108901278,"stop":1666108902258}
